@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title":"Philadelphia hit roll",
+        "itemsInBox": 6,
+        "weight": 180,
+        "price": 10,
+        "imgSrc": "philadelphia-hit.jpg"
+
+    },
+    {
+        "id": 2,
+        "title":"California tempura",
+        "itemsInBox": 6,
+        "weight": 205,
+        "price": 15,
+        "imgSrc": "california-tempura.jpg"
+
+    },
+    {
+        "id": 3,
+        "title":"Baked «California roll»",
+        "itemsInBox": 6,
+        "weight": 182,
+        "price": 13,
+        "imgSrc": "baked-california.jpg"
+
+    },
+    {
+        "id": 4,
+        "title":"Philadelphia",
+        "itemsInBox": 6,
+        "weight": 230,
+        "price": 20,
+        "imgSrc": "philadelphia.jpg"
+
+    }
+]
